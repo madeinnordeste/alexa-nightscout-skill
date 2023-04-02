@@ -4,7 +4,7 @@ Alexa skill para leiutura de dados do Nightscout
 
 ## Tutorial - Crie Sua Primeira Skill Para Alexa
 
-<https://www.youtube.com/watch?v=gCEN_Wkd-9E>
+<https://www.youtube.com/watch?v=GvzyVHDANfU>
 
 ## Invocation name
 
